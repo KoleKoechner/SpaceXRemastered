@@ -1,25 +1,30 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# Exploring Our Solar System
 
-## Overview
+## Project Manager & Founder:
+- [Kole Koechner](https://github.com/KoleKoechner)
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+## Assisting Member(s):
+- [Evan LéNoir](https://github.com/Evan-LeNoir)
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+<br>
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+# Our Mission Statement
+(add your story here)
 
-## Get Started
+<br>
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-97de62a546f943fbbc7a246b4785a343)
+# Changelog
 
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
 
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to get all of the goodies. If you see any _errors_ (warnings are 🙆🏾‍♂️) on Windows, you may have to do `npm install`.
 
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
 
-Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
+[Doc notes & comments below]: # (DO NOT DELETE THIS! Anything below this is meant to be a place to keep comments and notation.
+--Use the area below to add notes so that other team players can understand what is going on at all times.
+--We can also use this as instructions to help guild a team memeber or the entire time. We'd do this by a 'To Do'. Example: For everyone/anyone 'Team - To Do' or to target a person 'Kole - To Do' or 'Evan - To Do' etc etc.
+--How you notate in md is; open and closing brackets, colon, space, hash, space, parenthesis and within the parenthesis is where you put your message. End each note with a timestamp.)
 
-**Note:** This is a template repository, no need to 'fork it.
+[Kole - To Do]: # (Under 'Mission Statement' write an elevator pitch that describes why you are doing this project and why you feel it can be fun or beneficial that people see it. Think of this as your sales pitch or the 'click like button and subscribe!' that YouTubers always do. Feel free to delete this comment once you've completed this To Do. 6/19/2020)
+
+[Assiting Memebers]: # (Under the assisting members section is where contributors will be listed. Anyone who helps with this project. Also add a hyperlink to their github {or other profile}. An example of how this is done is demonstrated above. 6/19/2020)
+
+[Changelog]: # (This will not need to be populated yet and will only contain details that a user/visitor to your site would be concerned with; not backend things. This can be stuff like 'improved load times', 'added <insert feature here>', 'revamped the UI to be streamlined' etc etc. Do not concern yourself with this just yet. Once the site is finished, deployed and sustaining a following, that's when changelog can begin to be populated. 6/19/2020)
