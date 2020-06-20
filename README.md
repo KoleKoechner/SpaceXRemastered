@@ -20,7 +20,7 @@
 
 [Doc notes & comments below]: # (DO NOT DELETE THIS! Anything below this is meant to be a place to keep comments and notation.
 --Use the area below to add notes so that other team players can understand what is going on at all times.
---We can also use this as instructions to help guild a team memeber or the entire time. We'd do this by a 'To Do'. Example: For everyone/anyone 'Team - To Do' or to target a person 'Kole - To Do' or 'Evan - To Do' etc etc.
+--We can also use this as instructions to help guild a team member or the entire time. We'd do this by a 'To Do'. Example: For everyone/anyone 'Team - To Do' or to target a person 'Kole - To Do' or 'Evan - To Do' etc etc.
 --How you notate in md is; open and closing brackets, colon, space, hash, space, parenthesis and within the parenthesis is where you put your message. End each note with a timestamp.)
 
 [Kole - To Do]: # (Under 'Mission Statement' write an elevator pitch that describes why you are doing this project and why you feel it can be fun or beneficial that people see it. Think of this as your sales pitch or the 'click like button and subscribe!' that YouTubers always do. Feel free to delete this comment once you've completed this To Do. 6/19/2020)

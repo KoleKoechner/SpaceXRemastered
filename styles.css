@@ -1,13 +1,25 @@
-#nav {
-    border: 2px solid black;
+body {
+    background-image: url(./assets/Starry_Night.jpg);
+    background-repeat: no-repeat;
+    /*background-size: 1920px 1080px; Leave this in for now as we figure out what the best scaling method is*/
+    background-size: 100%;
+    color: bisque;
+}
+
+#nav ul {
+    border: 2px solid rgb(42, 119, 111);
+    border-radius: 50px;
+    padding: 10px 10px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    list-style: none;
+    list-style-type: none;
 }
 
-.home-page {
-    border: 2px solid black;
-    display: flex;
-    justify-content: space-between;
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }
