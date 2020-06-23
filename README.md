@@ -9,15 +9,11 @@
 <br>
 
 # Our Mission Statement
-(1st Draft) SpaceX will be launching Starship sometime in 2020. What better way to celebrate it by giving a basic knowledge of our solar system.
+Space X will soon launch project Starship in an attempt to begin colonizing Mars and explore our knowledge of Sol (Our Solar System).
 
-The goal for this site is to give out simple details of our neighboring planets while flying by them. Not only will this site give out details about our neighboring planets, but also how long it will take to get there using SpaceX Starship.
+This site will act as a resource of information as it becomes available, not just from Space X but from other credible sources as well. Only accurate information will be listed here with all of our resources available for accurate verification.
 
-We want to give out scientific and accurate information as possible. We'll provide a link to our resource in the descriptions as well.
-
-[Consider this - ammend to it as you see fit or use this as a guidline]: # (Soon Space X will launch project Starship in an effort to begin colonization of Mars and further our knowledge of the solar system.
-.
-This site is to act as a repository of information as it becomes available, not just from Space X but other credible sources too. Only accurate information will be broadcasted here with all of our resources available for transparent verification. {the '.' is there to separate the two paragraphs. Once you've read and made your updates, delete this notation}. 6/20/2020)
+[The notation has been deleted]: # (I've updated the mission statement to make it short and catchy as possible. 6/23/2020 10:44AM.)
 
 <br>
 
@@ -35,4 +31,6 @@ This site is to act as a repository of information as it becomes available, not 
 
 [Changelog]: # (This will not need to be populated yet and will only contain details that a user/visitor to your site would be concerned with; not backend things. This can be stuff like 'improved load times', 'added <insert feature here>', 'revamped the UI to be streamlined' etc etc. Do not concern yourself with this just yet. Once the site is finished, deployed and sustaining a following, that's when changelog can begin to be populated. 6/19/2020)
 
-[Kole - To Do]: # (Read over the User Guide of Starship and the Planets in our Solar System. Also make a wire frame of what the page for the planets will look like. 6/20/2020)
+[Kole - To Do]: # (Need to write a first draft for Starship, Earth and possibly another planet. 6/23/2020)
+
+[Kole - Completed]: # (Completed a wire frame for the planet/spacex. Made a new folder called Resources, where a jpeg of the wireframe is saved. I've also downloaded the user guide for the Starship. 6/23/2020 10:58AM)
