@@ -1,12 +1,14 @@
 body {
     background-image: url(./assets/Starry_Night.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     /*background-size: 1920px 1080px; Leave this in for now as we figure out what the best scaling method is*/
     background-size: 100%;
     color: bisque;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-#nav ul {
+#nav>ul {
     border: 2px solid rgb(42, 119, 111);
     border-radius: 50px;
     padding: 10px 10px;
@@ -14,6 +16,29 @@ body {
     flex-direction: row;
     justify-content: space-around;
     list-style-type: none;
+}
+
+div.planetData {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section.planetSpecs>p {
+    border: 2px solid white;
+    border-radius: 35px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10%;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+section>p#planetName {} /* reserver this block for when we figure out how to stylize the name independently, maybe even the others.*/
+div.planetDescription {
+    border: 2px solid white;
+    border-radius: 35px;
+    padding: 10px 25px 10px 25px;
+    margin-bottom: 25px;
+
 }
 
 h1 {
