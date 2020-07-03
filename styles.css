@@ -32,7 +32,7 @@ section.planetSpecs>p {
     padding-left: 25px;
     padding-right: 25px;
 }
-section>p#planetName {} /* reserver this block for when we figure out how to stylize the name independently, maybe even the others.*/
+section>p#planetName {} /* reserve this block for when we figure out how to stylize the name independently, maybe even the others.*/
 div.planetDescription {
     border: 2px solid white;
     border-radius: 35px;
